@@ -1,4 +1,4 @@
-# temperature-converter
+# coin converter
 
 PORTUGUESE VERSION
 
